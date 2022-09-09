@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59968fc2-f927-4a50-84ba-825b37cb7a4d": {
+      "ProjectGuid": "59968fc2-f927-4a50-84ba-825b37cb7a4d",
+      "DisplayName": "DALC",
+      "ColorIndex": 0
+    },
+    "63481df6-421a-4157-a1c9-f708b3e6e851": {
+      "ProjectGuid": "63481df6-421a-4157-a1c9-f708b3e6e851",
+      "DisplayName": "BLC",
+      "ColorIndex": 1
+    },
+    "a4a4517c-7ffe-45cf-96b8-aa0bd6554319": {
+      "ProjectGuid": "a4a4517c-7ffe-45cf-96b8-aa0bd6554319",
+      "DisplayName": "AppGenerator",
+      "ColorIndex": 2
+    },
+    "fee0259f-3c44-46e6-aa26-45652c52f3e7": {
+      "ProjectGuid": "fee0259f-3c44-46e6-aa26-45652c52f3e7",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 3
+    },
+    "62ff7632-e3b5-43c5-b867-daf7d671d459": {
+      "ProjectGuid": "62ff7632-e3b5-43c5-b867-daf7d671d459",
+      "DisplayName": "IDALC",
+      "ColorIndex": 4
+    },
+    "660ded7c-bad1-4f3d-b54b-c44b27b96278": {
+      "ProjectGuid": "660ded7c-bad1-4f3d-b54b-c44b27b96278",
+      "DisplayName": "Entities",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5a28ef59-e2f8-4ca5-8b81-1c279c1c0a84": {
+      "ProjectGuid": "5a28ef59-e2f8-4ca5-8b81-1c279c1c0a84",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

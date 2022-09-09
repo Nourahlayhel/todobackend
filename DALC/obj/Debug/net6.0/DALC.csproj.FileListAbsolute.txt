@@ -1,0 +1,17 @@
+C:\TodoProject\App\DALC\bin\Debug\net6.0\DALC.deps.json
+C:\TodoProject\App\DALC\bin\Debug\net6.0\DALC.dll
+C:\TodoProject\App\DALC\bin\Debug\net6.0\DALC.pdb
+C:\TodoProject\App\DALC\bin\Debug\net6.0\Entities.dll
+C:\TodoProject\App\DALC\bin\Debug\net6.0\IDALC.dll
+C:\TodoProject\App\DALC\bin\Debug\net6.0\Entities.pdb
+C:\TodoProject\App\DALC\bin\Debug\net6.0\IDALC.pdb
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.csproj.AssemblyReference.cache
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.GeneratedMSBuildEditorConfig.editorconfig
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.AssemblyInfoInputs.cache
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.AssemblyInfo.cs
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.csproj.CoreCompileInputs.cache
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.csproj.CopyComplete
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.dll
+C:\TodoProject\App\DALC\obj\Debug\net6.0\ref\DALC.dll
+C:\TodoProject\App\DALC\obj\Debug\net6.0\DALC.pdb
+C:\TodoProject\App\DALC\obj\Debug\net6.0\refint\DALC.dll
